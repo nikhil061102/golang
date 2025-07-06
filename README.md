@@ -81,6 +81,7 @@ Golang Channels
 - https://www.youtube.com/@anthonygg_
 - https://www.youtube.com/@MarioCarrion
 - https://youtube.com/@golangcafe
+- https://youtube.com/@akhilsharmatech
 
 
 Sites 
