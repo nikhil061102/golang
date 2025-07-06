@@ -80,6 +80,7 @@ Golang Channels
 - https://www.youtube.com/@FloWoelki
 - https://www.youtube.com/@anthonygg_
 - https://www.youtube.com/@MarioCarrion
+- https://youtube.com/@golangcafe
 
 
 Sites 
